@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Hearthstone Roll</string>
+    <string name="vs">X</string>
+    <string name="roll_button">Сменить</string>
+    <string name="class1_name">Воин</string>
+    <string name="class2_name">Шаман</string>
+    <string name="class3_name">Разбойник</string>
+    <string name="class4_name">Паладин</string>
+    <string name="class5_name">Охотник</string>
+    <string name="class6_name">Друид</string>
+    <string name="class7_name">Чернокнижник</string>
+    <string name="class8_name">Маг</string>
+    <string name="class9_name">Жрец</string>
+    <string name="action_settings">Настройки</string>
+
+</resources>
